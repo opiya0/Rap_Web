@@ -1,22 +1,11 @@
 .card1{
     border-radius: 50px;
-    margin: 58px 70px;
-    position: absolute;
+    padding-right: 20px;
+    display: table-cell;
+    padding-left: 30px;
 }
 
-.card2{
-    border-radius: 50px;
-    margin: 58px 470px;
-  position: absolute;
+.audio{
+    height: 30px;
 }
 
-.card3{
-    border-radius: 50px;
-    margin: 58px 829px;
-   position: absolute;
-}
-.card4{
-    border-radius: 50px;
-    margin: 58px 1180px;
-   position: absolute;
-}
